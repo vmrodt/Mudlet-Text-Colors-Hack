@@ -1,6 +1,9 @@
 # Mudlet-Text-Colors-Hack
-A dirty little hacky script to change the color theme of text in Mudlet. 
+A dirty little hacky script to change the color theme of text in Mudlet. It's actually not meant for use. It's just an experiment to see how Mudlet text looks using some existing color themes.
 It includes some color themes that were adapted from those from http://mayccoll.github.io/Gogh/
+# Requirements
+-Windows or Linux (only tested in Ubuntu 18.04.3 LTS)
+-Mudlet.
 # Instructions
 - Clone or Download this repo.
 - Unzip in case you downloaded the repo as zip.
