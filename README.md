@@ -11,7 +11,6 @@ It includes some color themes that were adapted from those from http://mayccoll.
 - Change directory to the folder of the repo (or the folder you extracted from the zip)
 - Find where are Mudlet profiles located in your machine.
 - Run the script like this:
-```python3 mod-theme.py /path-to-your-mudlet-profile-/mudlet-profile.xml Color-Themes/```
+```python3 mod-theme.py /path-to-your-mudlet-profile-/mudlet-profile-to-modify.xml Color-Themes-Folder/```
 - Choose a Color Theme from the list.
 - Enjoy!
-
